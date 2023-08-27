@@ -6,7 +6,7 @@ const transporter = mailer.createTransport({
   secure: true,
   auth: {
     user: "saileshmankunwar2021@gmail.com",
-    pass: "wrruensdsebzdwsm",
+    pass: "", // give email password
   },
 });
 
